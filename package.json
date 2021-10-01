@@ -1,20 +1,19 @@
 {
-    "name": "yori-vs-the-bugs",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "start": "parcel src/index.html"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "phaser": "^3.55.2"
-    },
-    "devDependencies": {
-      "@parcel/transformer-image": "^2.0.0-rc.0",
-      "parcel": "^2.0.0-rc.0"
-    }
+  "name": "yori-vs-the-bugs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "parcel": "^2.0.0-rc.0"
   }
-  
+}
